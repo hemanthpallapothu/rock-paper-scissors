@@ -1,0 +1,47 @@
+.header-bg-container {
+  padding: 25px;
+}
+
+.header-container {
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 25px;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-item {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: Bree Serif;
+  font-weight: 500;
+}
+
+.score-card-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 125px;
+}
+
+.score {
+  color: #223a5f;
+  font-family: Roboto;
+  font-size: 45px;
+  text-align: center;
+}
+
+.score-text {
+  color: #223a5f;
+  font-family: Bree Serif;
+  font-size: 25px;
+}

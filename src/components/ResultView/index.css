@@ -1,0 +1,53 @@
+.result-view-alinement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-view {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.choose-img {
+  height: 250px;
+  width: 250px;
+}
+
+.alinement-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.play-again-button {
+  background-color: #ffffff;
+  height: 35px;
+  width: 125px;
+  font-family: Bree Serif;
+  border-radius: 5px;
+  border: 0px;
+}
+
+.result-msg {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 25px;
+}
+
+.you-opponent {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 25px;
+}
